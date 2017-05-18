@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Infrastructure Engineer / Freelancer
+email: esteban@irurueta.net
+url: https://irurueta.net
+description: "My personal site for resume and for Irurueta.net placeholder. Lazy to use an actual CMS."
+keywords: "esteban, irurueta, esteban@irurueta.net, office365, office, microsoft, work, resume, etc"
+skills: "Infrastructure - Systems Engingeer - Office 365 Administrator - Systems Administrator - Data"
+meta_author: Irurueta Esteban
 
 # Google webmaster tools
 google_verify:
@@ -39,21 +39,20 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: https://www.linkedin.com/in/irurueta/
   - title: facebook
-    url:
+    url:http://facebook.com/esuiru
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/questions/tagged/esuiru
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/esuiru
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/esuiru
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Tampa, FL 33602 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
