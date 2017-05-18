@@ -1,10 +1,10 @@
 # Site settings
-title: Infrastructure Engineer / Freelancer
+title: Systems Administrator
 email: esteban@irurueta.net
 url: https://irurueta.net
 description: "My personal site for resume and for Irurueta.net placeholder. Lazy to use an actual CMS."
 keywords: "esteban, irurueta, esteban@irurueta.net, office365, office, microsoft, work, resume, etc"
-skills: "Infrastructure - Systems Engingeer - Office 365 Administrator - Systems Administrator - Data"
+skills: "Systems Engineer - Office 365 - Systems Administrator - Data"
 meta_author: Irurueta Esteban
 
 # Google webmaster tools
@@ -32,7 +32,6 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
   credits: Credits
